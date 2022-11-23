@@ -1,6 +1,6 @@
 import os
 
-targetDir = r'd:\tmp\util\dist\check'
+targetDir = r'd:\tmp\util\dist\room'
 files = []
 dirs  = []
 
