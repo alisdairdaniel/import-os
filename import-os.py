@@ -12,4 +12,6 @@ def dir_how():
 
     print(files)
     print(dirs)
+    
+    
 aaa = dir_how()
